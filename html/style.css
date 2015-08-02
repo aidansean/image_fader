@@ -1,0 +1,22 @@
+
+input#input_image_url{
+  width : 400px ;
+}
+input#input_color, input#submit_make{
+  width : 100px ;
+}
+table{
+  width : 600px ;
+  margin : auto ;
+}
+button#button_fade, input#input_image_url, input.fader{
+  font : 16pt arial , sans-serif ;
+}
+input.fader{
+  width : 2em ;
+}
+
+table#table_fade tbody tr th, table#table_fade tbody tr td{
+  font : 16pt arial , sans-serif ;
+}
+
